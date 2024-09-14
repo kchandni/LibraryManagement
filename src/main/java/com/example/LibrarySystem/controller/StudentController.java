@@ -38,7 +38,7 @@ public class StudentController {
 	private final StudentService service;
 	private final BookService bookService;
 	Authentication authentication;
-	StudentModel model;	
+	StudentModel model;
 	//private final StudentRepository repository;
 	private final BorrowService borrowService;
 	
